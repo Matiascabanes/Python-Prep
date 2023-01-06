@@ -15,6 +15,8 @@ Antes de comenzar deberás descargar en tu computadora las siguientes herramient
 3. Github
 4. Python
 
+SUerteee  
+
 Luego deberás realizar la clonación del [repositorio](https://github.com/soyHenry/Python-Prep). Te explicamos cómo hacerlo en el tutorial: 
 
 
